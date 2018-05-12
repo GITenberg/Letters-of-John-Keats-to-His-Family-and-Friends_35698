@@ -1,0 +1,34 @@
+_repo: Letters-of-John-Keats-to-His-Family-and-Friends_35698
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keats, John
+    birthdate: 1795
+    deathdate: 1821
+    gutenberg_agent_id: '935'
+    url: http://www.gutenberg.org/2009/agents/935
+    wikipedia: http://en.wikipedia.org/wiki/John_Keats
+  editor:
+    agent_name: Colvin, Sidney
+    birthdate: 1845
+    deathdate: 1927
+    gutenberg_agent_id: '34550'
+    url: http://www.gutenberg.org/2009/agents/34550
+description: ''
+gutenberg_issued: '2011-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poets, English -- 19th century -- Correspondence'
+- !lcc 'PR'
+- !lcsh 'Keats, John, 1795-1821 -- Correspondence'
+title: Letters of John Keats to His Family and Friends
+url: http://www.gutenberg.org/ebooks/35698
